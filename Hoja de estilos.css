@@ -1,0 +1,55 @@
+h1{
+color:#f7f7f7;
+
+}
+
+h2{
+color:#f7f7f7;
+
+}
+
+body{
+
+	background-color:#006739 ; 
+}
+
+p{
+
+	color:#f7b111;
+}
+
+a{
+
+	color: white ;
+}
+
+nav ul li{
+	list-style: none;
+	float: left;
+	margin: 10px;
+	
+}
+
+.separador{
+	clear: both;
+}
+
+.contenedor{
+	width: 800px;
+	margin: auto ;
+	border: 1px solid red;
+	padding: 5px;
+}
+
+header{
+	text-align: center;
+	background-color: red;
+}
+
+
+iframe{
+	border: none;
+	margin: auto;
+}
+
+
